@@ -1,4 +1,4 @@
-# completer
-completion program import sanskrit wireless
+# पूरण
+सम्पूर्ति क्रमादेश महत्वपूर्ण संस्कृतं निष्तन्त्री
 निवेशनावस्था आनन्द द्रव भागापूर्ति परितोषयति
 
